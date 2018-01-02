@@ -1,0 +1,5 @@
+[21:24] Fichier log des connexions :
+
+[21:24]===Connexion Client=== 1:SAM
+[21:24]===Connexion Client=== 2:BOB
+[21:33]===Deconnexion Client=== 2:BOB
